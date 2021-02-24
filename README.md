@@ -1,15 +1,14 @@
 # Loika
 
-Loika is an ecommerce/subscription-based application that aims to deliver the best quality produces from the local farmers at a fair price to the consumers’ doorstep with ease and reliability. 
+Loika is an ecommerce/subscription-based application that aims to deliver the best quality food from local farmers at a fair price to the consumers’ doorstep with ease and reliability. 
 
 ## How it works
 
-The application is designed on the mobile phone aimed to connect the customers and our service. It is designed with to attract the customers and also for easy transactions and users’ experience. The customers can choose, schedule their choices so the experience can be tailored to each customer. 
-The application helps the customers to keep track of their products, discover new offers and options or learn more about the origin of the produces. Thus, the engagement of the application is crucial to the business, it is how we communicate and promote the products to our customers. 
+The application is designed on the mobile phone to easily connect the customers and our service. It is designed to be appealing but also efficient.
+The application helps the customers order products, manage deliveries, discover new offers and learn more about the origins of the food. Thus, the engagement of the application is crucial to the business, it is how we communicate and promote the products to our customers. 
 
 ## Inspiration
-Loika took inspiration from the modern trend of food produces. There has been a dramatic demand in locally, ecological produced food supply for everyday need as an average consumer is more conscious about the ingredients on their plates and its origins. Thanks to the internet, people are increasingly gaining awareness about the packaged overly process food and the pressure it brings to the health of the consumer in the long time, as well as the environment. It is only natural people are yearning for quality foods that they can rely on fully while relieve the amount of waste produced by industrial factories and the national scale transportation.
-
+Loika took inspiration from increase in demand for local, responsibly sourced food in place of the processed food available at big box stores. The average consumer is more conscious about the ingredients on their plates and their origins. Another key factor was connecting the local farmer's to their communities. Many farmer's participate in farmer's markets because it allows them to sell their food at lower prices while still making more because the middle man has been cut out. The issue is many people do not have access to farmer's markets. This application looks to fill this hole and create a streamlined experience for all involved. We should always be looking to support local, small businesses over the Walmarts and Whole Foods of the world!
 ## Technology Stack
 
 
